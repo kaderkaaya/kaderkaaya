@@ -21,7 +21,6 @@
 
 ```javascript
 const kader = {
-    pronouns: "she" | "her",
     education: "Computer Engineering @ Antalya Bilim University",
     currentRole: "Software Developer",
     techStack: {
