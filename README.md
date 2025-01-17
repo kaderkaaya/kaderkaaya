@@ -1,9 +1,12 @@
 <div align="center">
-    <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-    <dotlottie-player src="https://lottie.host/0cfe1423-95f1-4f7d-ab3c-3108991019aa/zavCCFsLhS.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Kader+%F0%9F%91%8B;I'm+a+Software+Developer;Always+learning+new+things" alt="Typing SVG" />
-    </a>
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" href="https://github.com/SP-XD" width="500" alt=""/>
+</div>
+
+<div align="center">
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Kader+%F0%9F%91%8B;I'm+a+Software+Developer;Always+learning+new+things" alt="Typing SVG" />
+</a>
+
 </div>
 
 <div align="center">
@@ -43,7 +46,6 @@ const kader = {
   
 </div>
 
-
 ## 📊 GitHub Stats
 
 
@@ -53,20 +55,19 @@ const kader = {
 </div>
 
 ## 🌟 My Principles
-🎯 Always aiming for efficient and scalable solutions
 
-📚 Lifelong learner
+- 🎯 Always aiming for efficient and scalable solutions
+- 📚 Lifelong learner
+- 🤝 Open to collaboration
+- 💡 Problem solver
+- ✨ Code enthusiast
 
-🤝 Open to collaboration
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kaderkaaya/count.svg" alt="Visitor Count"/>
+</div>
 
-💡 Problem solver
-
-✨ Code enthusiast
-
-<div align="center"> <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script> <dotlottie-player src="https://lottie.host/9a770e17-0caf-47ef-966f-0bf8b769420a/f9okmHBDsm.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player> </div>
-
-<div align="center"> <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script> <dotlottie-player src="https://lottie.host/b3253bc0-0997-46bb-8d6c-e21169bdf49f/Ala65sBRVi.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player> </div>
-
-<div align="center"> <img src="https://profile-counter.glitch.me/kaderkaaya/count.svg" alt="Visitor Count"/> </div>
-
-<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"> </div>
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+</div>
