@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+  <img src="./images/dev-working_rounded.gif" width="400" alt="coding"/>
+  <img src="./images/hello_coders.png" width="400" alt="hello coders"/>
+</div>
+
+# Hi there 👋
 
 🌞 I'm Kader,
 
@@ -10,6 +15,17 @@
 
 🍎 I am also learning Swift to dive into mobile app development and broaden my expertise.
 
-🌱 Passionate about technology, I’m always exploring new languages, tools, and frameworks to stay ahead in the field.
+🌱 Passionate about technology, I'm always exploring new languages, tools, and frameworks to stay ahead in the field.
 
 ✨ I believe in lifelong learning and consistently strive to improve myself, both personally and professionally.
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{YOUR-GITHUB-USERNAME}/count.svg" alt="Visitor Count" />
+</div>
+
+<!-- Optional: Add GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
