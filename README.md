@@ -8,11 +8,11 @@
 
 <div align="center">
   <p>
-    <a href="https://github.com/YOUR-USERNAME?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YOUR-USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+    <a href="https://github.com/kaderkaaya?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kaderkaaya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
     </a>
-    <a href="https://github.com/YOUR-USERNAME?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YOUR-USERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <a href="https://github.com/kaderkaaya?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kaderkaaya?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
   </p>
 </div>
@@ -21,6 +21,7 @@
 
 ```javascript
 const kader = {
+    pronouns: "she" | "her",
     education: "Computer Engineering @ Antalya Bilim University",
     currentRole: "Software Developer",
     techStack: {
@@ -43,6 +44,16 @@ const kader = {
   
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaderkaaya&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaderkaaya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaderkaaya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
 ## 🌟 My Principles
 
@@ -53,14 +64,14 @@ const kader = {
 - ✨ Code enthusiast
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count"/>
+  <img src="https://profile-counter.glitch.me/kaderkaaya/count.svg" alt="Visitor Count"/>
 </div>
 
 <!-- Snake animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaderkaaya/kaderkaaya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaderkaaya/kaderkaaya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaderkaaya/kaderkaaya/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
