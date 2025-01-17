@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" href="https://github.com/SP-XD" width="500" alt=""/>
+  <img src="https://lottie.host/0cfe1423-95f1-4f7d-ab3c-3108991019aa/zavCCFsLhS.lottie" href="https://lottie.host/0cfe1423-95f1-4f7d-ab3c-3108991019aa/zavCCFsLhS.lottie" width="500" alt=""/>
 </div>
 
 <div align="center">
