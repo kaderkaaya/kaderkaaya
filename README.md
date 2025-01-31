@@ -28,7 +28,6 @@ const kader = {
     currentRole: "Software Developer",
     techStack: {
         backend: ["Node.js", "JavaScript"],
-        learning: ["Swift"],
         passionate: ["Technology", "Innovation", "Problem Solving"]
     },
     currentFocus: "Building efficient and scalable solutions",
