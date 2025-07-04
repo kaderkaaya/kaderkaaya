@@ -27,7 +27,7 @@ const kader = {
     education: "Computer Engineering @ Antalya Bilim University",
     currentRole: "Software Developer",
     techStack: {
-        backend: ["Node.js", "JavaScript","Pyhton"],
+        backend: ["Node.js", "JavaScript"," Python"],
         passionate: ["Technology", "Innovation", "Problem Solving"]
     },
     currentFocus: "Building efficient and scalable solutions",
