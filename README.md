@@ -57,7 +57,3 @@ const kader = {
 - 🤝 Open to collaboration
 - 💡 Problem solver
 - ✨ Code enthusiast
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kaderkaaya/count.svg" alt="Visitor Count"/>
-</div>
