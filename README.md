@@ -64,12 +64,7 @@ const kader = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaderkaaya&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=kaderkaaya&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
 </div>
 
 ---
-
-<div align="center">
-  <p>💙 Thanks for visiting my profile! Feel free to reach out.</p>
-  <p>⭐️ From <a href="https://github.com/kaderkaaya">kaderkaaya</a></p>
-</div>
