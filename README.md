@@ -6,16 +6,15 @@
  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Kader+%F0%9F%91%8B;I'm+a+Software+Developer;Always+learning+new+things" alt="Typing SVG" />
 </a>
-
 </div>
 
 <div align="center">
   <p>
     <a href="https://github.com/kaderkaaya?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kaderkaaya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kaderkaaya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&cacheSeconds=3600"/>
     </a>
     <a href="https://github.com/kaderkaaya?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kaderkaaya?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/kaderkaaya?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white&cacheSeconds=3600"/>
     </a>
   </p>
 </div>
@@ -27,7 +26,7 @@ const kader = {
     education: "Computer Engineering @ Antalya Bilim University",
     currentRole: "Software Developer",
     techStack: {
-        backend: ["Node.js", "JavaScript"," Python"],
+        backend: ["Node.js", "JavaScript", "Python"],
         passionate: ["Technology", "Innovation", "Problem Solving"]
     },
     currentFocus: "Building efficient and scalable solutions",
@@ -57,3 +56,20 @@ const kader = {
 - 🤝 Open to collaboration
 - 💡 Problem solver
 - ✨ Code enthusiast
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaderkaaya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaderkaaya&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+  <p>💙 Thanks for visiting my profile! Feel free to reach out.</p>
+  <p>⭐️ From <a href="https://github.com/kaderkaaya">kaderkaaya</a></p>
+</div>
