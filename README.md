@@ -62,9 +62,4 @@ const kader = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaderkaaya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" alt="GitHub Stats"/>
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kaderkaaya&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
-</div>
-
 ---
