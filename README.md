@@ -11,7 +11,7 @@
 <div align="center">
   <p>
     <a href="https://github.com/kaderkaaya?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kaderkaaya?color=236ad3&style=for-the-badge&logo=github&label=Followers&logoColor=white"/>
+      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kaderkaaya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&cacheSeconds=3600"/>
     </a>
     <a href="https://github.com/kaderkaaya?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/kaderkaaya?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white&cacheSeconds=3600"/>
@@ -32,7 +32,6 @@ const kader = {
     currentFocus: "Building efficient and scalable solutions",
     funFact: "I believe every bug is just an undocumented feature 🐛"
 };
-
 ```
 
 ---
@@ -52,10 +51,10 @@ const kader = {
 
 ## 🌟 My Principles
 
-* 🎯 Always aiming for efficient and scalable solutions
-* 📚 Lifelong learner
-* 🤝 Open to collaboration
-* 💡 Problem solver
-* ✨ Code enthusiast
-
-```
+- 🎯 Always aiming for efficient and scalable solutions
+- 📚 Lifelong learner
+- 🤝 Open to collaboration
+- 💡 Problem solver
+- ✨ Code enthusiast
+---
+  followers invalid diyor
