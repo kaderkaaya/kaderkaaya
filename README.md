@@ -57,4 +57,3 @@ const kader = {
 - 💡 Problem solver
 - ✨ Code enthusiast
 ---
-  followers invalid diyor
